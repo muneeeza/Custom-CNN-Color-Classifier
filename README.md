@@ -21,5 +21,11 @@ The model is a custom CNN with layers optimized for image classification:
 * **Pooling Layers**: To reduce spatial dimensions.
 * **Dense Layers**: To classify the image into one of three categories.
 
+## To run the GUI:
+    pip install gradio
+
+![image](https://github.com/user-attachments/assets/f38b6bc1-693d-4683-b2ae-d45d0b9964a9)
+
+    
 More details included in the report. 
 
