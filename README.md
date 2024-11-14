@@ -4,6 +4,8 @@ This project, developed as part of my deep learning course, is a Convolutional N
 ## Key Features
 * **Custom Dataset**: A dataset of 240 images (80 per category) labeled as black, colorful, or transparent.
 
+      [Download Dataset from Google Drive](https://drive.google.com/your-dataset-link)
+
 * **Image Preprocessing**: Custom preprocessing to enhance image quality based on brightness and color properties.
 
 * **CNN Model**: A convolutional neural network model trained to classify images into the three categories.
@@ -20,3 +22,4 @@ The model is a custom CNN with layers optimized for image classification:
 * **Dense Layers**: To classify the image into one of three categories.
 
 More details included in the report. 
+
