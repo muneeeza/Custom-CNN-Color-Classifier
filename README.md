@@ -4,11 +4,11 @@ This project, developed as part of my deep learning course, is a Convolutional N
 ## Key Features
 * **Custom Dataset**: A dataset of 240 images (80 per category) labeled as black, colorful, or transparent.
 
-      [Download Dataset from Google Drive](https://drive.google.com/your-dataset-link)
+        https://drive.google.com/drive/folders/1UYXpo-ctA25ccfG-XCW5lH50gUAEp5Ok?usp=sharing
 
 * **Image Preprocessing**: Custom preprocessing to enhance image quality based on brightness and color properties.
 
-* **CNN Model**: A convolutional neural network model trained to classify images into the three categories.
+* **CNN Model**: A convolutional neural network model trained to classify images into three categories.
 
 * **Conveyor Belt Mapping**: Each category is mapped to a conveyor belt for easy sorting.
 
