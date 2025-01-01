@@ -26,6 +26,9 @@ The model is a custom CNN with layers optimized for image classification:
 
 ![image](https://github.com/user-attachments/assets/f38b6bc1-693d-4683-b2ae-d45d0b9964a9)
 
+## Contributers 
+Hafsa Hafeez Siddiqui
+
     
 More details included in the report. 
 
